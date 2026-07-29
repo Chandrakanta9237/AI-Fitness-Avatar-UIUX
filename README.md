@@ -22,9 +22,11 @@ This project is a UI/UX Case Study designed in Figma for an AI-powered Fitness A
 - 03_User_Journey_and_UI_Design.pdf
 
 ## Author
+
 **Chandrakanta Sahoo**
+
 Master of Computer Applications (MCA)
-Gift Autonomous, Bhubaneswar
+
 GIFT Autonomous, Bhubaneswar
 
 2026
